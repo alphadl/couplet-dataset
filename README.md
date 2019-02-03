@@ -2,7 +2,7 @@
 
 This is a project to fetch couplets from [冯重朴_梨味斋散叶_的博客](http://blog.sina.com.cn/s/articlelist_1195052695_2_1.html)
 
-This dataset contains more than 700,000 couplets.
+This [dataset](https://drive.google.com/file/d/13cJWWp_ST2Xqt76pEr5ZWa6LVJwGYC4-/view?usp=sharing) contains more than 700,000 couplets.
 
 Run the spider:
 -------------
